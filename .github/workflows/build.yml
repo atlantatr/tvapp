@@ -1,86 +1,55 @@
 name: Build APK
-
-"on":
+on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   workflow_dispatch:
-
 jobs:
-
   build-modern:
-    name: Modern APK (Android 5.0+)
+    name: Modern APK
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: JDK 17
-        uses: actions/setup-java@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
         with:
           java-version: '17'
           distribution: 'temurin'
-          cache: gradle
-
-      - name: ZIP ac
-        run: |
-          unzip TurkTV-MODERN-API21.zip -d modern
-          INNER=$(ls modern/)
-          echo "MDIR=modern/$INNER" >> $GITHUB_ENV
-
-      - name: Gradle permission
+      - name: Unzip Modern
+        run: unzip TurkTV-MODERN-API21.zip -d modern_src
+      - name: Find project dir
+        run: echo "MDIR=modern_src/$(ls modern_src/)" >> $GITHUB_ENV
+      - name: Make gradlew executable
         run: chmod +x ${{ env.MDIR }}/gradlew
-
-      - name: Build
+      - name: Build Modern APK
         working-directory: ${{ env.MDIR }}
         run: ./gradlew assembleDebug --no-daemon
-
-      - name: APK bul
-        run: |
-          APK=$(find ${{ env.MDIR }} -name "*.apk" | head -1)
-          cp "$APK" TurkTV-MODERN-debug.apk
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Copy APK
+        run: cp $(find ${{ env.MDIR }} -name "*.apk" | head -1) TurkTV-MODERN.apk
+      - uses: actions/upload-artifact@v4
         with:
           name: TurkTV-MODERN-API21
-          path: TurkTV-MODERN-debug.apk
-          retention-days: 30
-
+          path: TurkTV-MODERN.apk
   build-legacy:
-    name: Legacy APK (Android 4.0.3+)
+    name: Legacy APK
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: JDK 17
-        uses: actions/setup-java@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
         with:
           java-version: '17'
           distribution: 'temurin'
-          cache: gradle
-
-      - name: ZIP ac
-        run: |
-          unzip TurkTV-LEGACY-API16.zip -d legacy
-          INNER=$(ls legacy/)
-          echo "LDIR=legacy/$INNER" >> $GITHUB_ENV
-
-      - name: Gradle permission
+      - name: Unzip Legacy
+        run: unzip TurkTV-LEGACY-API16.zip -d legacy_src
+      - name: Find project dir
+        run: echo "LDIR=legacy_src/$(ls legacy_src/)" >> $GITHUB_ENV
+      - name: Make gradlew executable
         run: chmod +x ${{ env.LDIR }}/gradlew
-
-      - name: Build
+      - name: Build Legacy APK
         working-directory: ${{ env.LDIR }}
         run: ./gradlew assembleDebug --no-daemon
-
-      - name: APK bul
-        run: |
-          APK=$(find ${{ env.LDIR }} -name "*.apk" | head -1)
-          cp "$APK" TurkTV-LEGACY-debug.apk
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Copy APK
+        run: cp $(find ${{ env.LDIR }} -name "*.apk" | head -1) TurkTV-LEGACY.apk
+      - uses: actions/upload-artifact@v4
         with:
           name: TurkTV-LEGACY-API16
-          path: TurkTV-LEGACY-debug.apk
-          retention-days: 30
+          path: TurkTV-LEGACY.apk
