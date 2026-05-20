@@ -1,0 +1,334 @@
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT 1
+http://95.174.71.114:80/TR-TRT1/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT 1 (#)
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT 2
+http://95.174.71.114:80/TR-TRT2/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Arabi
+http://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Belgesel
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Belgesel (#)
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Çocuk
+http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Diyanet Çocuk
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Diyanet Çocuk (#)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT EBA
+https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Haber (#)
+https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Müzik
+http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Spor
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=701&extension=ts
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Spor 2 Yildiz
+http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Türk
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT Turk (#)
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT World
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TRT World (#)
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",++hoofdzenders 1 overige++
+https://transponder.petervanderlaan.nl/intros/streamturkijetr_tv.mp4
+#EXTINF:-1 group-title="Stream Turkije (TR)",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",A Haber
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=197288&extension=ts
+#EXTINF:-1 group-title="Stream Turkije (TR)",A News
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=197297&extension=ts
+#EXTINF:-1 group-title="Stream Turkije (TR)",A Para
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=197298&extension=ts
+#EXTINF:-1 group-title="Stream Turkije (TR)",A Spor
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:01:FC&stream=615828&extension=ts
+#EXTINF:-1 group-title="Stream Turkije (TR)",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",ATV
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",ATV (#)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",ATV (#)
+http://95.174.71.114:80/TR-ATV/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",ATV Avrupa
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Bloomberg HT (#)
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",CNN Türk
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Dream Türk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Dream Türk (#)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Finans Türk
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Haber Global
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Haber Global (#)
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Habertürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
+#EXTINF:-1 group-title="Stream Turkije (TR)",HT Spor (#)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal B
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal D (#)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Stream Turkije (TR)",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Euro D (#)
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal Avrupa
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal Firat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kral Pop
+http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",MC TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Mercan
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",NOW
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",NOW (#)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Number 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Number 1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Olay Turk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power Türk Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Power TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Show
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 group-title="Stream Turkije (TR)",Show (#)
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Show Max
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Show Türk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",STAR TV
+http://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 group-title="Stream Turkije (TR)",STAR TV (#)
+http://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",EURO STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 100
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 100 (#)
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TYT Türk
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",++hoofdzenders 2 overige++
+https://transponder.petervanderlaan.nl/intros/streamturkijetr_tv.mp4
+#EXTINF:-1 group-title="Stream Turkije (TR)",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Teve 2
+http://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_0_192/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Teve 2 (#)
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",On 6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Haber 61
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal S TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kanal Urfa
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kocaeli TV
+https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Sat 7 Türk
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Tay TV
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TV Den
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",++overige++
+https://transponder.petervanderlaan.nl/intros/streamturkijetr_tv.mp4
+#EXTINF:-1 group-title="Stream Turkije (TR)",Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Bengütürk
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Beyaz
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 group-title="Stream Turkije (TR)",Bir TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Bursa AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Cay TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",DHA 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",DHA 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",DİM TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Finest TV
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",GRT
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Kent Türk
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Line TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Malatya Vuslat
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",MaviKaradeniz TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",MC
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 group-title="Stream Turkije (TR)",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TMB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",TMB Music
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Trabzon Buyuksehir Belediyesi
+https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Türkmen Owazy
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Türkmen Sporty
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Türkmenistan
+http://217.174.225.146/legacyhls/ch007_400/index.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="Stream Turkije (TR)",Zarok TV Sorani
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
